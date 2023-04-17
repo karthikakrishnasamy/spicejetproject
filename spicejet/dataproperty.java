@@ -1,0 +1,14 @@
+browser=chrome
+url=https://www.spicejet.com/
+FirstName=kavitha
+LastName=Doe
+Country=India
+DOB=03/01/1980
+MobileNumber=06342777987
+Email=kavitha14@gmail.com
+Password=kavi@123
+ConfirmPassword=kavi@123
+InvalidPass = qwerty
+From= DEL
+To= PNQ
+City = kerala
